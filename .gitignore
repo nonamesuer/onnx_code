@@ -4,6 +4,6 @@
 /Main copy.spec
 /model
 /onnx_venv
-/static
+/static/model
 /test.py
 /__pycache__

@@ -1,0 +1,89 @@
+{
+    "LAYOUT":{
+        "title":"PkP/MOE4 CYL-Gears vision inspection",
+        "home":"Home",
+        "yolo":"YOLO",
+        "exit":"Exit",
+        "lca":"Low Cost Automation"
+    },
+    "MODBUS":{
+        "faile_init_modbus":"Initialization Modbus error",
+        "fail_config_modbus":"Modbus configuration error",
+        "module":"Module",
+        "disconnect":"Disconnect",
+        "address_exceed":"The address exceeds the specified size",
+        "fail_sensor_check":"Abnormal disconnection of sensor"
+    },
+    "YOLO":{
+        "model":"Model",
+        "cameras":"Cameras",
+        "gpus":"GPU",
+        "img_saving_path":"Image saving path",
+        "img_saveas":"Save Image As",
+        "resolution":"Resolution",
+        "open_cv":"Turn on the camera",
+        "close_cv":"Turn off the camera",
+        "take_picture":"Take Picture",
+        "hardware_detection":"Hardware",
+        "model_train":"Training",
+        "model_predict":"Detection",
+        "other":"Others",
+        "num_camreas":"Num of cameras",
+        "num_gpu":"Num of GPUs",
+        "operate":"Operate",
+        "records":"Records",
+        "single_manual_predict":"Single Prediction",
+        "cancel_warn":"Cancle Warning",
+        "prepare_detect":"Prepare",
+        "continuous_detect":"Continuous",
+        "rectify":"Rectify",
+        "clear":"Clear",
+        "save_records":"Storage records",
+        "clear_records":"Clear records",
+        "converting_label_format":"Label format conversion",
+        "json_path":"Initial path",
+        "txt_path":"Converted path",
+        "default_json_path":"Please select the path for the original (json) file.",
+        "default_txt_path":"Please select the location where you want to save the converted file.",
+        "convert":"Start conversion",
+        "add_class":"Add label",
+        "label":"Label",
+        "mark_label":"Annotate images",
+        "continue_check":"Continue",
+        "pause_check_reset":"Pause(Reset)",
+        "pause_temp_check":"Pause(Temp)"
+
+    },
+    "TITLE":{
+        "exit":"Exit confirmation",
+        "notic":"Notice",
+        "saveas":"Save as",
+        "warning":"Warning",
+        "error":"Error" 
+    },
+    "ENQUIRE":{
+        "exit":"Are you sure to exit the system?"
+    },
+    "MESSAGE":{
+        "change_lang":"The language modification was successful and will take effect after restarting the system",
+        "fail_open_cv":"Camera failed to open",
+        "select_cv":"Please first select the camera you want to open",
+        "picture_path":"Please specify the path to save the image",
+        "fail_picture_path":"The path to save the image was not found.",
+        "success_picture_save":"The image has been successfully saved",
+        "no_target":"Target not detected",
+        "error_substitute":"The substitute result is not in the dataset. Please correct the [substitute] in the config configuration file and try again",
+        "warning_select_label":"Please select Label",
+        "conversion_completed":"Conversion completed.",
+        "resolution_small":"The resolution is too small, the minimum allowed resolution is 320 * 240",
+        "save_result_fail":"Failed to save the result",
+        "no_result":"No result",
+        "error_confidence":"The confidence [confidence] in the configuration must be greater than the lower limit [lowerlimit], please adjust the parameters [lowerlimit] and [confidence] in the [config] of the configuration file"
+    },
+    "CONPONENTS":{
+        "cancel":"Cancel",
+        "enter":"OK",
+        "yes":"Yes"
+    }
+
+}
