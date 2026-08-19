@@ -1,0 +1,25 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "confidence": "0.8697733",
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          458.6510009765625,
+          290.94158935546875
+        ],
+        [
+          973.1837158203125,
+          711.9524536132812
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ]
+}

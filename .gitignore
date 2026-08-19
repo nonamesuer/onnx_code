@@ -1,0 +1,9 @@
+/backup
+/config copy.ini
+/log
+/Main copy.spec
+/model
+/onnx_venv
+/static
+/test.py
+/__pycache__

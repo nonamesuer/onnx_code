@@ -1,0 +1,25 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "confidence": "0.77849823",
+  "shapes": [
+    {
+      "label": "mouse",
+      "points": [
+        [
+          626.9405517578125,
+          301.167236328125
+        ],
+        [
+          832.4953002929688,
+          648.921630859375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ]
+}
